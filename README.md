@@ -22,7 +22,7 @@ Passenger satisfaction with in-flight food and beverage experiences is crucial f
 
 - **Dataset:** The dataset used for analysis (`passenger_feedback.csv`) contains passenger comments and relevant information related to food and beverage experiences during flights.
 
-- **PDF Report:** A detailed report summarizing the analysis, findings, and recommendations is available as a PDF (`flight_food_beverage_report.pdf`).
+- **PDF Report:** A detailed report summarizing the analysis, findings, and recommendations is available as a [PDF Report](https://github.com/satymishra/Sky-Hack2/blob/main/SkyHack_Report_pdf.pdf).
 
 ## Required Modules and Dependencies
 
@@ -51,5 +51,4 @@ Additionally, for better performance in TF-IDF vectorization and cosine similari
 
 The analysis of passenger feedback data has identified key pain points related to in-flight food and beverage experiences. The project highlights the importance of addressing these pain points to enhance passenger satisfaction and improve overall flight experiences.
 
-For a detailed overview, refer to the [PDF Report](flight_food_beverage_report.pdf).
-
+For a detailed overview, refer to the [PDF Report](https://github.com/satymishra/Sky-Hack2/blob/main/SkyHack_Report_pdf.pdf).
