@@ -6,15 +6,15 @@ This repository contains an analysis of passenger feedback data to improve in-fl
 
 Passenger satisfaction with in-flight food and beverage experiences is crucial for airlines. This project aims to analyze passenger feedback data to identify pain points and areas for improvement in food and beverage services. The analysis focuses on identifying common complaints, preferences, and opportunities for enhancing the overall dining experience during flights.
 
-## What We Did
+## What I Did
 
-1. **Exploratory Data Analysis (EDA):** We performed EDA to understand the overall trends and patterns in the dataset. This involved visualizing data, understanding distributions, and identifying key variables.
+1. **Exploratory Data Analysis (EDA):** I performed EDA to understand the overall trends and patterns in the dataset. This involved visualizing data, understanding distributions, and identifying key variables.
 
 2. **Data Preprocessing:** Multiple datasets were joined and preprocessed to create a comprehensive data source for analysis.
 
 3. **Natural Language Processing (NLP):** NLP techniques were utilized to extract insights from the text data. This included sentiment analysis, keyword extraction, and identifying frequent phrases and terms.
 
-4. **Keyword Extraction:** We used techniques like TF-IDF vectorization and cosine similarity to extract keywords from passenger comments. This helped identify major pain points and common themes related to food and beverage experiences.
+4. **Keyword Extraction:** I used techniques like TF-IDF vectorization and cosine similarity to extract keywords from passenger comments. This helped identify major pain points and common themes related to food and beverage experiences.
 
 ## Files in the Repository
 
