@@ -18,9 +18,9 @@ Passenger satisfaction with in-flight food and beverage experiences is crucial f
 
 ## Files in the Repository
 
-- **Notebook:** The Jupyter Notebook (`flight_food_beverage_analysis.ipynb`) contains the code, analysis, and visualizations performed throughout the project.
+- **Notebook:** The Jupyter Notebook (`SkyHack Nb.ipynb`) contains the code, analysis, and visualizations performed throughout the project.
 
-- **Dataset:** The dataset used for analysis (`passenger_feedback.csv`) contains passenger comments and relevant information related to food and beverage experiences during flights.
+- **Dataset:** The dataset used for analysis (`Survey data _Customer comments.csv`) contains passenger comments and relevant information related to food and beverage experiences during flights.
 
 - **PDF Report:** A detailed report summarizing the analysis, findings, and recommendations is available as a [PDF Report](https://github.com/satymishra/Sky-Hack2/blob/main/SkyHack_Report_pdf.pdf).
 
